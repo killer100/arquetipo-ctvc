@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src/",
+      "paths": {
+        "app/core/*": ["./app/core/*"],
+        "app/modules/*": ["./app/modules/*"]
+      }
+    }
+  }

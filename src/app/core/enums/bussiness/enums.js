@@ -1,0 +1,5 @@
+export const TIPO_SANCION = {
+  AMONESTACION: 1,
+  SUSPENSION: 2,
+  DESTITUCION: 3
+};
